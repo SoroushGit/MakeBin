@@ -1,0 +1,21 @@
+#!/bin/bash
+
+
+
+#Writen by "Soroush Mazloum"
+
+
+
+rm -rf TeamBin
+
+mkdir TeamBin
+
+mkdir TeamBin/Lib
+
+cp /usr/local/StarterLibRCSC/lib/* TeamBin/Lib -r
+
+cp src/* TeamBin/ -r
+
+cd TeamBin
+
+rm *.cpp *.h
