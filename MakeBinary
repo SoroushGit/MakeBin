@@ -10,9 +10,9 @@ rm -rf TeamBin
 
 mkdir TeamBin
 
-mkdir TeamBin/Lib
+mkdir TeamBin/lib
 
-cp /usr/local/StarterLibRCSC/lib/* TeamBin/Lib -r
+cp /usr/local/StarterLibRCSC/lib/* TeamBin/lib -r
 
 cp src/* TeamBin/ -r
 
