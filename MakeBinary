@@ -18,4 +18,4 @@ cp src/* TeamBin/ -r
 
 cd TeamBin
 
-rm *.cpp *.h
+rm *.cpp *.h *.o
