@@ -24,3 +24,7 @@ So a folder called TeamBin will be generated wich is you team binary.
 Now go to TeamBin directory and open the start.sh file and change the LIBPATH in line 12 to './lib/' so your team will read the library from lib folder.
 
 Now You can compress your team Binary.
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushGit&layout=compact)](https://github.com/SoroushGit)
