@@ -27,4 +27,4 @@ Now You can compress your team Binary.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushGit&layout=compact)](https://github.com/SoroushGit)
+
