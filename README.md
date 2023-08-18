@@ -26,5 +26,5 @@ Now go to TeamBin directory and open the start.sh file and change the LIBPATH in
 Now You can compress your team Binary.
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 
